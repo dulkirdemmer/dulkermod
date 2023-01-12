@@ -1,4 +1,4 @@
-# dulkermod
+# This is Dulkir Mod!
 
 Some features of OldAnimations may not work when custom animations is turned on. The mod also will just not properly work if you have other versions of oldanimations besides sk1er's.
 Massive thanks to Soopyboo32, Nopo, Aton, and many others for the invaluable teachings that made this possible. They were instrumental to the design and debugging process, and I'm thankful that I've learned as much from this as I have.
